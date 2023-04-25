@@ -22,7 +22,7 @@ Você poderá adiconar tasks a sua lista como mostra a imagen a seguir:
 
 Você também pode marcar uma task como concluida ou desmarcar ela, pode remover ela e pode remover todas as tasks, o vídeo a seguir mostra todas as funcionalidade do projeto.
 
-![Home](/src/assets/midia-readme/tela-video-1.mp4)
+![Home](/src/assets/midia-readme/tela-video-1.gif)
 
 ## Instalação e Uso
 
